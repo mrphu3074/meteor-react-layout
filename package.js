@@ -1,8 +1,8 @@
 Package.describe({
     name: 'izzilab:react-layout',
-    version: '0.0.1',
+    version: '0.0.2',
     summary: 'Define layouts for reactjs. Support flow-router, ion:router',
-    git: '',
+    git: 'https://github.com/mrphu3074/meteor-react-layout.git',
     documentation: 'README.md'
 });
 
